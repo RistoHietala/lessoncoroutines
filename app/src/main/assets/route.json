@@ -1,0 +1,89 @@
+[
+  {
+    "id": "fef46ef4646fe64",
+    "day": "maanantai",
+    "name": "Maanantai Chydenius 1-reitti",
+    "time": "8:00",
+    "points": [
+      {
+        "start": true,
+        "end": false,
+        "order": 1,
+        "address": "Talonpojankatu 2 67100 Kokkola",
+        "person": 2
+      },
+      {
+        "start": false,
+        "end": false,
+        "order": 2,
+        "address": "Korpintie 2 67100 Kokkola",
+        "person": 1
+      },
+      {
+        "start": false,
+        "end": false,
+        "order": 3,
+        "address": "Sorvarinkatu 2 67100 Kokkola",
+        "person": 1
+      },
+      {
+        "start": false,
+        "end": true,
+        "order": 4,
+        "address": "Antti Chydeniuksenkatu 20 67100 Kokkola",
+        "person": 0
+      }
+
+    ]
+  },
+  {
+    "id": "ae1ae12a12ae12",
+    "day": "maanantai",
+    "name": "Maanantai Mäntykangas 1-reitti",
+    "time": "8:00",
+    "points": [
+      {
+        "start": true,
+        "end": false,
+        "order": 1,
+        "address": "Mariankatu 23 67200 Kokkola",
+        "person": 1
+      },
+      {
+        "start": false,
+        "end": false,
+        "order": 2,
+        "address": "Arminkatu 2 67200 Kokkola",
+        "person": 1
+      },
+      {
+        "start": false,
+        "end": false,
+        "order": 3,
+        "address": "Huvilakatu 7 67200 Kokkola",
+        "person": 2
+      },
+      {
+        "start": false,
+        "end": false,
+        "order": 4,
+        "address": "Urheilukatu 15 67200 Kokkola",
+        "person": 1
+      },
+      {
+        "start": false,
+        "end": false,
+        "order": 5,
+        "address": "Pakkahuoneenkatu 28 67100 Kokkola",
+        "person": 1
+      },
+      {
+        "start": false,
+        "end": true,
+        "order": 6,
+        "address": "Antti Chydeniuksenkatu 72 67200 Kokkola",
+        "person": 0
+      }
+    ]
+  }
+]
